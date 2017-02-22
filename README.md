@@ -19,6 +19,7 @@ All of them(except DELETE) take paramters as follows: "ADD 45 6 7 mainTree". The
     Will search the tree to check if item exists, with the full path
 ###val myBTree = ADD/DELETE/SEARCH/GENERATE
     To assign the output of any function, use the above format with the respective parameters
+###val mynewBTree = Empty | Node(VALUE: int, left: BTree, right: BTree, down: BTree) 
 ##Variables 
-###val mainTree 
+###val mainTree = GENERATE(Empty, 10);
     An initially generated tree, with 10 randomly generated items. 
