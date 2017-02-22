@@ -3,7 +3,7 @@
 ##About   
 3 dimensional k-d tree in SML 
 
-The following methods are provided as easy access to the tree.
+The following methods are provided as easy access to the tree.  
 All of them(except DELETE) take paramters as follows: "ADD 45 6 7 mainTree". The code is written in a strictly pattern matching/curryied style. 
 
 ##Command Examples
