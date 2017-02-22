@@ -17,7 +17,7 @@ All of them(except DELETE) take paramters as follows: "ADD 45 6 7 mainTree". The
     Will print the tree. 
 ###SEARCH oneD twoD threeD bTree
     Will search the tree to check if item exists, with the full path
-###myBTree = ADD/DELETE/SEARCH/GENERATE
+###val myBTree = ADD/DELETE/SEARCH/GENERATE
     To assign the output of any function, use the above format with the respective parameters
 ##Variables 
 ###val mainTree 
